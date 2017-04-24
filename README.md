@@ -10,14 +10,20 @@
 
 java com.mseven.clientsoap.IpLocation <ipquequieras>
 
-*****************************ips random para test****************************************
-											*
-java com.mseven.clientsoap.IpLocation 203.11.116.3					*
-java com.mseven.clientsoap.IpLocation 205.215.127.52					*
-java com.mseven.clientsoap.IpLocation 12.161.160.112					*
-java com.mseven.clientsoap.IpLocation 207.239.41.88					*
-java com.mseven.clientsoap.IpLocation 36.6.102.84					*
-java com.mseven.clientsoap.IpLocation 236.218.2.11					*	
-java com.mseven.clientsoap.IpLocation 56.32.76.252					*
-											*
-*****************************************************************************************
+
+											
+java com.mseven.clientsoap.IpLocation 203.11.116.3
+*
+java com.mseven.clientsoap.IpLocation 205.215.127.52
+*
+java com.mseven.clientsoap.IpLocation 12.161.160.112
+*
+java com.mseven.clientsoap.IpLocation 207.239.41.88
+*
+java com.mseven.clientsoap.IpLocation 36.6.102.84
+*
+java com.mseven.clientsoap.IpLocation 236.218.2.11
+*	
+java com.mseven.clientsoap.IpLocation 56.32.76.252
+
+
